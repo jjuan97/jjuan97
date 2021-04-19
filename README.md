@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello follow me on instagram @juanjojjpr](https://github.com/jjuan97/jjuan97/blob/main/JuanBIO.gif)
 
 <!--
 **jjuan97/jjuan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
