@@ -1,4 +1,4 @@
-<img src="JuanBIO.gif" alt="Follow me on Instagram @juanjojjpr" width="650"/>
+<img src="JuanBIO.gif" alt="Follow me on Instagram @juanjojjpr" width="720"/>
 
 <!--
 **jjuan97/jjuan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
