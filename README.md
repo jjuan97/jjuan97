@@ -20,13 +20,14 @@ Java, Python, JS, VBA, MatLab, SQL, NoSQL, IoT (mqtt, raspberry, RFID,), Redes d
 
 ## Projects
 
-in progress
-#- Crement
-#- nutridam
-#- COVID COLOMBIA
-#- HOTEL IOT
-#- Copa America APP
-
+In PROGRESS
+<!--
+- Crement
+- nutridam
+- COVID COLOMBIA
+- HOTEL IOT
+- Copa America APP
+-->
 
 
 ## Contact me
