@@ -6,7 +6,7 @@ I'm a **Electrical and Telecommunication Engineer** :man_technologist: from Univ
 
 ***More about me***: 
 
-I love 
+IN PROGRESS
 
 
 
@@ -20,11 +20,12 @@ Java, Python, JS, VBA, MatLab, SQL, NoSQL, IoT (mqtt, raspberry, RFID,), Redes d
 
 ## Projects
 
-- Crement
-- nutridam
-- COVID COLOMBIA
-- HOTEL IOT
-- Copa America APP
+in progress
+#- Crement
+#- nutridam
+#- COVID COLOMBIA
+#- HOTEL IOT
+#- Copa America APP
 
 
 
