@@ -1,34 +1,86 @@
 
 
-<h1> Hello I'm <a href=https://github.com/jjuan97>Juan Paredes</a> <img src="./gif/hi.gif" width="55px"></img></h1> <img align="right" height="280px" src="./gif/DS.gif"/>
+<h1> Hello I'm <a href=https://github.com/jjuan97>Juan Paredes</a> <img src="./gif/hi.gif" width="80px"></img></h1> <img align="right" height="280px" src="./gif/DS.gif"/>
 
 I'm a **Electrical and Telecommunication Engineer** :man_technologist: from University of Cauca, Colombia. I have skills in the telematics area :satellite:, involving modern technologies :floppy_disk:, development environments :page_with_curl: and knowledge of programming languages :computer:.
 
 ***More about me***: 
 
-IN PROGRESS
-
-
-
-
+- :heart: &nbsp; I love mobile and web development.
+- :bar_chart: &nbsp; I am currently learning Data Science and Machine Learning.
+- 👨🏻‍💻 &nbsp; I like to lead projects or create new things.
+- 🚀 &nbsp; I am currently the CTO of a small business. 
+- :page_facing_up: &nbsp; Check out my [CV](https://drive.google.com/file/d/1C1SJVCANH2QXLjxt_c51tDZ3NAB8xyX-/view?usp=sharing)
 
 ## Languages and Tools
 
-Java, Python, JS, VBA, MatLab, SQL, NoSQL, IoT (mqtt, raspberry, RFID,), Redes definidas por software (Ryu, Mininet, OpenFlow), Ciencia de datos (Pandas, Numpy, Matplotlib, Scrapy), ML (SciKit, pytorch, tensorflow), Linux.
+<p>
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> &nbsp;&nbsp;
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+</p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuan97&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/xantosromero/github-readme-stats)-->
 
 ## Projects
 
-In PROGRESS
-<!--
-- Crement
-- nutridam
-- COVID COLOMBIA
-- HOTEL IOT
-- Copa America APP
--->
+<details>
+    <summary>:iphone: <b>Crement App</b></summary>
+    </br>
+    <a href=https://play.google.com/store/apps/details?id=com.rydev.appcreditos&hl=es_419&gl=US>Google Play Link</a>
+    <p>Main developer and UX / UI in mobile application for the control of credits of specific companies.</p>
+    <h5>Technologies</h5>
+    <ul>
+        <li>Native Android App</li>
+        <li>Firebase (backend, database, authentication)</li>
+        <li>Java</li>
+        <li>NodeJS</li>
+    </ul>
+</details>
 
+<details>
+    <summary>:package: <b>Covid-evolution-map-in-Colombia</b></summary>
+    </br>
+    <a href=https://github.com/jjuan97/Covid-evolution-map-in-Colombia>Repo Link</a>
+    <p>A useful code to display a gif chart about the departments affected by covid-19 in Colombia.</p>
+    <h5>Technologies</h5>
+    <ul>
+        <li>Python</li>
+        <li>Numpy</li>
+        <li>Pandas, GeoPandas</li>
+        <li>Matplotlib</li>
+    </ul>
+</details>
+
+<details>
+    <summary>:hotel: <b>Hotel IoT</b></summary>
+    </br>
+    <a href=https://github.com/jjuan97/HotelIot>Repo Link</a>
+    <p>Hotel management application with Iot utilities.</p>
+    <h5>Technologies</h5>
+    <ul>
+        <li>Native Android App</li>
+        <li>Web App</li>
+        <li>Beacon</li>
+        <li>BLE</li>
+        <li>MQTT</li>
+        <li>Firebase</li>
+    </ul>
+</details>
 
 ## Contact me
 
