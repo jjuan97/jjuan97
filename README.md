@@ -81,11 +81,12 @@ I'm a **Electrical and Telecommunication Engineer** :man_technologist: from Univ
 </details>
 
 ## Contact me
-
+Email: juanjosechepe@gmail.com
 <p align="right">
     &nbsp; <a href="https://www.linkedin.com/in/juan-paredes-a624aa186"><img src="./img/031-linkedin.png" width="45px"/></a> 
     &nbsp; <a href="https://www.instagram.com/juanjojjpr/"><img src="./img/034-instagram.png" width="45px"/></a>
     &nbsp; <a href="mailto:juanjosechepe@gmail.com"><img src="./img/gmail.png" width="50px"/></a>
+    
 </p>
 
 <!--
