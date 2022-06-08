@@ -1,6 +1,7 @@
-<h1> Hello I'm <a href=https://github.com/jjuan97>Juan Paredes</a> <img src="./gif/hi.gif" width="45px"></img></h1>
+<h1> Hello I'm <a href=https://github.com/jjuan97>Juan Paredes</a> <img src="./gif/hi.gif" height="35px" width="45px"></img></h1>
+<img align="right" height="300" src="./gif/DS.gif">
 I'm a **Electrical and Telecommunication Engineer** :man_technologist: from University of Cauca, Colombia. I have skills in the telematics area :satellite:, involving modern technologies :floppy_disk:, development environments :page_with_curl: and knowledge of programming languages :computer:.
-<img align="right" height="200" src="./gif/DS.gif">
+
 
 ***More about me***: 
 
