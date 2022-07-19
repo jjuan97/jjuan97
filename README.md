@@ -9,7 +9,7 @@ I'm a **Electrical and Telecommunication Engineer** :man_technologist: from Univ
 - :bar_chart: &nbsp; I am currently learning Data Science and Machine Learning.
 - 👨🏻‍💻 &nbsp; I like to lead projects or create new things.
 - 🚀 &nbsp; I am currently the CTO of a small business. 
-- :page_facing_up: &nbsp; Check out my [CV](https://drive.google.com/file/d/1C1SJVCANH2QXLjxt_c51tDZ3NAB8xyX-/view?usp=sharing)
+- :page_facing_up: &nbsp; Check out my [CV](https://drive.google.com/file/d/1XlQEToauryjXIxw-nlWozIlWx4b1Mggv/view?usp=sharing)
 
 ## Languages and Tools
 
