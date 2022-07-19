@@ -38,6 +38,30 @@ I'm a **Electrical and Telecommunication Engineer** :man_technologist: from Univ
 ## Projects
 
 <details>
+    <summary>:car: <b>Intelligent Collision Risk Detection System</b></summary>
+    </br>
+    <p>Web platform developed in Flask for the manipulation and visualization of the kinematic data captured by the collection devices. In addition, it has the development of a Machine Learning model that allows classifying the areas where Near-Crashes events can occur.</p>
+    <h5>Repo links:</h5>
+    <ul>
+        <li><a href=https://github.com/santiagoYps/ICRDSWeb>Web and Machine Learning App</a></li>
+        <li><a href=https://github.com/jjuan97/VehicleDataCollectionS>Vehicle data collection Mobile App</a></li>
+        <li><a href=https://github.com/jjuan97/VehicleDataCollectionRpi>Raspberry data collection IoT device</a></li>
+    </ul>
+    <h5>Technologies</h5>
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>JavaScript</li>    
+        <li>Flask</li>
+        <li>Scikit-Learn</li>
+        <li>Other DataScience libraries: Numpy, Pandas, Plotly</li>
+        <li>Firebase Real Time</li>
+        <li>Raspberry Pi</li>
+        <li>IoT</li>
+    </ul>
+</details>
+
+<details>
     <summary>:iphone: <b>Crement App</b></summary>
     </br>
     <a href=https://play.google.com/store/apps/details?id=com.rydev.appcreditos&hl=es_419&gl=US>Google Play Link</a>
